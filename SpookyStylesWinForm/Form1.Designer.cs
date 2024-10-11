@@ -14,7 +14,6 @@
 			base.Dispose(disposing);
 		}
 
-
 		private void InitializeComponent()
 		{
 			mainTableLayoutPanel = new TableLayoutPanel();
